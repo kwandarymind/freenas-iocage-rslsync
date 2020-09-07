@@ -1,0 +1,4 @@
+JAIL_IP="192.168.1.30"
+DEFAULT_GW_IP="192.168.1.1"
+JAIL_NAME="resilio"
+POOL_PATH="kwandary"
